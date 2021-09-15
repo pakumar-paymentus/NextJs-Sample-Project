@@ -1,13 +1,13 @@
 ## Getting Started
 
-### First, run the development server:
+### First, run the development server (for this project using json-server):
 ``` npm run serve-json``` by default run the server on (http://localhost:4000)
 
 
-### for run for development 
+### run for development 
 npm run dev
 
-### for run for development 
+### run for production 
 ```npm run build```  which configure for production then start using ```npm run start ```
 
 
